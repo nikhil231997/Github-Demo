@@ -1,2 +1,3 @@
 Initialinizing
 testing 
+git pulling 
